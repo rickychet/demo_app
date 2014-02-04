@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 #ruby-gemset=railstutorial+rails_4_0
 
-gem 'rails', '~>4.0.2'
+gem 'rails', '4.0.2'
 
 group :development, :test do gem 'sqlite3-ruby', :require => 'sqlite3' end
 
